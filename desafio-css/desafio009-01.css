@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+
+.obs {
+    color: blue;
+    text-align: left;
+}
+
+.butao {
+    position: relative;
+    left: 600px;
+    top: 10px;
+    
+}
+
+.tris{
+  position: relative;
+  left: 350px;
+}
+
+.link {
+    position: relative;
+    left: 500px;
+    color: white;
+
+    
+    
+}
+
+ 
+ 

@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+p {
+    color: aliceblue;
+}
+
+h1 {
+    color: aliceblue;
+    position: relative;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+.topo{
+    position: relative;
+    left: 350px;
+}
+
+.flow{
+    position: relative;
+    left: 500px;
+    color: aliceblue;
+}
+
+.left{
+    position: relative;
+    left: 608px;
+}

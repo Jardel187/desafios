@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(240, 236, 8);
+    
+}
+
+ img {
+    position: relative;
+    left: 100px;
+    top: 100px;
+    margin: 100px;
+}

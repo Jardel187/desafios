@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+    background:  rgb(0, 0, 0);
+  
+}
+
+body p{
+    color: aliceblue;
+}
+
+.titulo{
+    color: white;
+    position: relative;
+    text-align: center;
+}
+
+.alan {
+    position: relative;
+    left: 700px;
+    bottom: 350px;
+    border: solid;
+}
+
+.camp {
+    border: solid;
+    position: relative;
+    left: 330px;
+    top: 33px;
+
+}
+
+.bike {
+    border: solid;
+    position: relative;
+    top: 50px;
+    left: 700px;
+    
+}
+
+.flow {
+    position: relative;
+    left: 330px;
+    bottom: 344px;
+    border: solid;
+}

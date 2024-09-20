@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.zoka{
+    position: relative;
+    left: 350px;
+    top: px;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.back {
+    position: relative;
+    left: 605px;
+    top: px;
+}
+
+.linkal {
+    position: relative;
+    left: 500px;
+    color: aliceblue;
+    
+}
